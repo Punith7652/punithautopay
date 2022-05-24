@@ -1,5 +1,5 @@
 module.exports = {
-    token: '5352232294:AAH8mP3BF4FXBi1-y7kZkCqJSISZI0tkMzA',
+    token: '5343191607:AAE8tKcCTloV8uyLWAZ9nhnGdUlqQGR9sAE',
     admins: [1149495871],
     curr:'Paisa'
 }
